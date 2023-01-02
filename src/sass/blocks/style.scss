@@ -1,4 +1,11 @@
-@import 'base/variables';
+@use '../blocks/promo';
+@use '../base/variables';
+@use '../blocks/header';
 * {
     font-family: Museo Sans Cyrl, sans-serif;
+}
+
+.container {
+    max-width: 950px;
+    margin: 0 auto;
 }
