@@ -1,6 +1,8 @@
-@use '../blocks/promo';
-@use '../base/variables';
-@use '../blocks/header';
+@import '../blocks/promo';
+@import '../base/variables';
+@import '../blocks/header';
+@import '../blocks/buttons';
+@import '../blocks/benefits';
 * {
     font-family: Museo Sans Cyrl, sans-serif;
 }
